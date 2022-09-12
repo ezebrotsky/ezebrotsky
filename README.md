@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Brotsky</h1>
-<h3 align="center">Full Stack Developer from Argentina living in Tel Aviv</h3>
+<h3 align="center">Backend Developer from Argentina living in Tel Aviv</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
