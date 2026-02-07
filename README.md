@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ezequiel Brotsky</h1>
-<h3 align="center">Software Engineer from Buenos Aires based in Tel Aviv</h3>
+# Ezequiel Brotsky
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-brotsky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-brotsky/" height="30" width="40" /></a>
-</p>
+**Software Engineer**
+
+---
+
+## About Me
+
+I'm a passionate software engineer with a background in building robust applications and solving complex technical challenges. Currently based in Tel Aviv, I bring creativity and precision to every project I work on. I'm interested in clean code, scalable architecture, and continuous learning.
+
+---
+
+## 🔗 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ezequiel-brotsky/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
